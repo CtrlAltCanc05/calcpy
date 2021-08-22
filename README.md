@@ -1,2 +1,2 @@
 # calcpy
-A calculator designed in Python
+A  simple text-based calculator designed in Python
